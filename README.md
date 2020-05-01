@@ -1,7 +1,11 @@
-👾 <h1 style="text-align:center">Github Explorer App</h1>
+<h1 align="center">🕵🏻‍♀️ Github Explorer App</h1>
+  
+</p>
 An App to explore github repositories and store searches on your local storage.
 
-<div style="text-align:center"><img src="github-explorer.gif"/></div>
+<p align="center">
+  <img alt="App simulation gif" src="github-explorer.gif">
+</p>
 
 ## 💾 Technologies used
 
@@ -33,8 +37,12 @@ If you prefer to try it from the scratch but just need some notes, in [this link
 
 ## This is the Dashboard page static view:
 
-![Dashboard page static view](README_Creating%20a%20ReactApp/Screen_Shot_2020-04-27_at_16.26.52.png)
+<p align="center">
+  <img width="460" height="300" src="README_Creating%20a%20ReactApp/Screen_Shot_2020-04-27_at_16.26.52.png">
+</p>
 
 ## This is the repositories page static view:
 
-![Repositories page atatic view](README_Creating%20a%20ReactApp/Screen_Shot_2020-04-27_at_16.45.48.png)
+<p align="center">
+  <img width="460" height="300" src="README_Creating%20a%20ReactApp/Screen_Shot_2020-04-27_at_16.45.48.png">
+</p>

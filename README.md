@@ -1,19 +1,24 @@
 <h1 align="center">🕵🏻‍♀️ Github Explorer App</h1>
-  
-</p>
-An App to explore github repositories and store searches on your local storage.
+ 
+<strong align="center">
+  An App to explore github repositories and store searches on your local storage.
+</strong>
+<br>
 
 <p align="center">
   <img alt="App simulation gif" src="github-explorer.gif">
 </p>
 
+
 ## 💾 Technologies used
 
 This app was build with [React.js](https://reactjs.org/) library connected to a [Node.js](https://nodejs.org/en/) database. 
+</br>
 
 ## 📃Tutorial and further development
 
 This app was build on [Rocketseat](https://rocketseat.com.br/), a Rocketseat tutorial to create an App capable of exploring github repositories and store searches on your local storage. This tutorial was part of the **GoStack Bootcamp** offered by the company.
+</br>
 
 ### How to clone and download the project?
 
